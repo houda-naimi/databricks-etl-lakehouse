@@ -20,6 +20,8 @@ This project demonstrates real-world data engineering pipelines using **Spark, P
 ![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD8?style=for-the-badge)
 ![Unity Catalog](https://img.shields.io/badge/Unity_Catalog-6A5ACD?style=for-the-badge)
 
+![Databricks](https://img.shields.io/badge/Databricks-EA1000?style=flat-square&logo=databricks&logoColor=white)
+
 ---
 ## Architecture
 
