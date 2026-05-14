@@ -13,12 +13,12 @@ This project demonstrates real-world data engineering pipelines using **Spark, P
 ---
 ## Technologies Used
 
-- Databricks
-- Apache Spark
-- PySpark
-- Spark SQL
-- Delta Lake
-- Unity Catalog
+![Databricks](https://img.shields.io/badge/Databricks-EA1000?style=for-the-badge&logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-2C2D72?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD8?style=for-the-badge)
+![Unity Catalog](https://img.shields.io/badge/Unity_Catalog-6A5ACD?style=for-the-badge)
 
 ---
 ## Architecture
